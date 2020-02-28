@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Blog#1
+title: Hunter sound effects
+tagline: Entry #1
 description: Test
 ---
