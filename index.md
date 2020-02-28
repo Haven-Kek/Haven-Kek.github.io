@@ -1,5 +1,4 @@
----
-theme: jekyll-theme-time-machine
+---s
 layout: page
 title: Haven's Blog
 tagline: Thoughts about WoW
