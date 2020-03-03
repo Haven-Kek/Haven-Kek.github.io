@@ -9,7 +9,7 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 
 title : Haven's Blog
-author :
+author : Haven
   name :
   email :
   github : Haven-kek
@@ -83,8 +83,8 @@ JB :
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #
-  analytics :
-    provider : false
+  analytics : google
+    provider : true
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
