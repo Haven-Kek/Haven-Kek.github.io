@@ -84,6 +84,7 @@ JB :
   # Set 'provider' to false to turn analytics off globally.
   #
   analytics : google
+  google_analytics: UA-159545830-1
     provider : true
 
   # Settings for sharing helper.
