@@ -83,9 +83,8 @@ JB :
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #
-  analytics : google
-  google_analytics: UA-159545830-1
-  provider : google
+  analytics :
+  provider : false
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
