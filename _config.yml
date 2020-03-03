@@ -10,10 +10,10 @@ highlighter: rouge
 
 title : Haven's Blog
 author : Haven
-  name : Mirko P.
-  email : srankenftein@gmail.com
-  github : Haven-kek
-  twitter :
+name : Mirko
+email : srankenftein@gmail.com
+github : Haven-kek
+twitter :
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://haven-kek.github.io/
