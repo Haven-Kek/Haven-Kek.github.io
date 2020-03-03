@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Index
-tagline: of all entries
+title: Haven's Blog
+tagline: pestering you with my thoughts about World of Warcraft
 description: Welcome to my mind blog.
 ---
 
